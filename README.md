@@ -20,4 +20,4 @@ At the time of writing, I have significantly more knowledge about machine learni
 **Quick note on the PowerPoint**: The attached PowerPoint file involved a significant amount of storytelling. My presentation was vocal, transitioning between technical and non-technical jargon related to medicine and mathematics. The slides are not filled with as much information because much of it was presented verbally. I apologize if they appear confusing.
 
 
-**Note**: ***I am not a mathematics student***, at the time of writing I am an undergraduate Computer Science student with a focus on data science during my leisure time. I anticipate a degree in Applied Mathematics in the Spring of 2028. Hence, many of the models lack precision.
+**Note**: ***I am not a mathematics student***, at the time of writing I am an undergraduate Computer Science student with a focus on data science during my leisure time,
